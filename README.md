@@ -1,2 +1,3 @@
-# yoou.tv-i18n
-Internationalization of the web site.
+# Yoou.tv
+
+Internationalization of the web site www.yoou.tv.
